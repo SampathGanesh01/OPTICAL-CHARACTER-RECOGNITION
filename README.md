@@ -1,6 +1,10 @@
 # OPTICAL-CHARACTER-RECOGNITION
 OPTICAL CHARACTER RECOGNITION PROJECT IN PYTHON USING OPENCV TESSERACT 
-I have done this project using opencv , pytesseract, matplotlib and also pil 
+I have done this project using 
+1. opencv ,
+2. pytesseract, 
+3. matplotlib and also 
+4. pil 
 ## STEPS TO DO THIS PROJECT :
   ### STEP 1️⃣ :- 
   Installing the required modules 
