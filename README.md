@@ -4,7 +4,7 @@ I have done this project using opencv , pytesseract, matplotlib and also pil
 ## STEPS TO DO THIS PROJECT :
   ### STEP 1️⃣ :- 
   Installing the required modules 
-            pip install pytessearct 
+            pip install pytesseract 
             pip install matplotlib
             pip install cv2 
             pip install pillow 
